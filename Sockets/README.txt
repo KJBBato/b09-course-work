@@ -1,6 +1,4 @@
 Assignment 4: Sockets
-
-Overview
 ========
 File copy (similar to Unix/Linux cp) using sockets. This implementation is unidirectional, 
 the files from the client is copied into the server and either adds to server or updates the 
